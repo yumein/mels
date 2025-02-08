@@ -54,18 +54,12 @@
 > [美团](https://www.meituan.com/)
 > [高德](https://ditu.amap.com/)
 > 
+## windows
+> [git](https://git-scm.com/)
+> [7z](https://www.7-zip.org/)
+> [FileZilla](https://filezilla-project.org/)
+> 
+> [JPEGView](https://github.com/sylikc/jpegview)
+> [MPC](https://github.com/clsid2/mpc-hc)
+> 
 
-
-
-
-
-
-
-
-
-
-
-
-[]()
-[]()
-[]()
