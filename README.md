@@ -13,19 +13,29 @@
 > 
 > [Bitwarden](https://github.com/bitwarden/android)
 >
-> [Microsoft Edge](https://www.microsoft.com/en-us/edge/)
+> [Edge](https://www.microsoft.com/)
+>
+> [Outlook](https://www.microsoft.com/)
+>
+> [Telegram](https://telegram.org/)
+>
+> [X](https://x.com/)
 > 
 > [Pixiv](https://www.pixiv.net/)
 > 
 > [PixEz](https://github.com/Notsfsssf/pixez-flutter)
 > 
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
+>
+> [ZArchiver](https://zdevs.ru/)
+> 
+> [Gboard](https://www.google.com/)
 > 
 
-[]()
-[]()
-[]()
-[]()
+
+
+
+
 []()
 []()
 []()
