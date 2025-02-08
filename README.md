@@ -66,5 +66,6 @@
 > [MPC](https://github.com/clsid2/mpc-hc)
 > [FileZilla](https://filezilla-project.org/)
 > [qBittorrent](https://www.qbittorrent.org/)
+> [Rufus](https://rufus.ie/zh/#)
 > 
 
