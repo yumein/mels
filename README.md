@@ -55,11 +55,16 @@
 > [高德](https://ditu.amap.com/)
 > 
 ## windows
-> [git](https://git-scm.com/)
 > [7z](https://www.7-zip.org/)
-> [FileZilla](https://filezilla-project.org/)
+> [git](https://git-scm.com/)
+> [Code](https://code.visualstudio.com/)
+> [Edge](https://www.microsoft.com/)
+> [Chrome](https://www.google.com/chrome/)
+> [terminal](https://github.com/microsoft/terminal)
 > 
 > [JPEGView](https://github.com/sylikc/jpegview)
 > [MPC](https://github.com/clsid2/mpc-hc)
+> [FileZilla](https://filezilla-project.org/)
+> [qBittorrent](https://www.qbittorrent.org/)
 > 
 
