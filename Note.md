@@ -29,3 +29,6 @@
 > [asmr](https://asmr.one/)
 > [動漫花園](https://share.dmhy.org/)
 > 
+> [Bigjpg](https://bigjpg.com/)
+> [waifu2x](https://www.waifu2x.net/)
+> 
