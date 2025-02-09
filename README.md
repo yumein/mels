@@ -8,6 +8,7 @@
 > 
 > [V2Ray安卓](https://github.com/2dust/v2rayNG)
 >
+> [Bandwagon](https://bandwagonhost.com/)
 ## android
 > [Aegis](https://github.com/beemdevelopment/Aegis)
 > [Bitwarden](https://github.com/bitwarden/android)
