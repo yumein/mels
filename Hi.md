@@ -41,7 +41,6 @@
 > 
 > [Sankaku](https://chan.sankakucomplex.com/)
 > [EoHut](https://www.eohut.com/)
-> [csotop](https://csotop.com/)
 > [琉璃](https://hacg.ceo/wp/)
 > [灵梦](https://blog.reimu.net/)
 > 
