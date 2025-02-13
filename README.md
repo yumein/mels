@@ -62,6 +62,7 @@
 > [MPC](https://github.com/clsid2/mpc-hc)
 > [FileZilla](https://filezilla-project.org/)
 > [qBittorrent](https://www.qbittorrent.org/)
+> [NDM](https://www.neatdownloadmanager.com/)
 > [Rufus](https://rufus.ie/zh/#)
 > 
 
