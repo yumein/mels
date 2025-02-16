@@ -55,7 +55,7 @@
 > [git](https://git-scm.com/)
 > [Code](https://code.visualstudio.com/)
 > [Edge](https://www.microsoft.com/)
-> [Chrome](https://www.google.com/chrome/)
+> [Chrome](https://www.google.com/intl/zh-CN/chrome/?standalone=1)
 > [terminal](https://github.com/microsoft/terminal)
 >
 > [JPEGView](https://github.com/sylikc/jpegview)
