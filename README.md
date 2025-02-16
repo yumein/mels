@@ -66,5 +66,6 @@
 > [ReNamer](https://www.den4b.com/products/renamer)
 > [waifu2x](https://github.com/nagadomi/nunif)
 > [Rufus](https://rufus.ie/zh/#)
+>
+> [漫画织机](https://github.com/MapoMagpie/eh-view-enhance)
 > 
-
