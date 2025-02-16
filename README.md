@@ -63,6 +63,8 @@
 > [FileZilla](https://filezilla-project.org/)
 > [qBittorrent](https://www.qbittorrent.org/)
 > [NDM](https://www.neatdownloadmanager.com/)
+> [ReNamer](https://www.den4b.com/products/renamer)
+> [waifu2x](https://github.com/nagadomi/nunif)
 > [Rufus](https://rufus.ie/zh/#)
 > 
 
