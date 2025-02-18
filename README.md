@@ -60,7 +60,6 @@
 >
 > [JPEGView](https://github.com/sylikc/jpegview)
 > [IrfanView](https://www.irfanview.com/)
-> [NeeView](https://github.com/neelabo/NeeView)
 > [MPC](https://github.com/clsid2/mpc-hc)
 > [FileZilla](https://filezilla-project.org/)
 > [qBittorrent](https://www.qbittorrent.org/)
