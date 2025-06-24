@@ -45,6 +45,8 @@
 > [DeepSeek](https://www.deepseek.com/)
 > [Kimi](https://kimi.moonshot.cn/)
 > [通义](https://tongyi.aliyun.com/)
+> [元宝](https://yuanbao.tencent.com/)
+> [ChatGPT](https://chatgpt.com/)
 >
 > [拼多多](https://www.pinduoduo.com/)
 > [淘宝](https://www.taobao.com/)
@@ -52,6 +54,7 @@
 > [高德](https://ditu.amap.com/)
 ## windows
 > [7z](https://www.7-zip.org/)
+> [WinRAR](https://www.rarlab.com/)
 > [git](https://git-scm.com/)
 > [Code](https://code.visualstudio.com/)
 > [Edge](https://www.microsoft.com/)
@@ -64,6 +67,7 @@
 > [FileZilla](https://filezilla-project.org/)
 > [qBittorrent](https://www.qbittorrent.org/)
 > [NDM](https://www.neatdownloadmanager.com/)
+> [aria2](https://github.com/aria2/aria2)
 > [ReNamer](https://www.den4b.com/products/renamer)
 > [waifu2x](https://github.com/nagadomi/nunif)
 > [Rufus](https://rufus.ie/zh/#)
