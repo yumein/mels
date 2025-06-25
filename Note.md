@@ -1,3 +1,4 @@
+ ```
 --proxy-server="socks://127.0.0.1:6767"
 
 irm https://massgrave.dev/get | iex
@@ -15,3 +16,4 @@ irm https://massgrave.dev/get | iex
 // @match              https://rule34.xxx/*
 // @match              https://*.artstation.com/*
 //
+ ```
