@@ -57,6 +57,7 @@
 > [WinRAR](https://www.rarlab.com/)
 > [git](https://git-scm.com/)
 > [Code](https://code.visualstudio.com/)
+> [Firefox](https://www.mozilla.org/)
 > [Edge](https://www.microsoft.com/)
 > [Chrome](https://www.google.com/intl/zh-CN/chrome/?standalone=1)
 > [terminal](https://github.com/microsoft/terminal)
