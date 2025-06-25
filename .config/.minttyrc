@@ -1,0 +1,11 @@
+Language=zh_CN
+ThemeFile=dracula
+Transparency=low
+Font=Cascadia Mono
+FontHeight=14
+Locale=C
+Charset=UTF-8
+WindowShortcuts=no
+MiddleClickAction=void
+CopyTab=yes
+CopyAsRTF=no
