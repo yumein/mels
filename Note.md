@@ -1,5 +1,7 @@
 --proxy-server="socks://127.0.0.1:6767"
+
 irm https://massgrave.dev/get | iex
+
 //
 // @match              https://*.pixiv.net/*
 // @match              https://twitter.com/*
