@@ -1,5 +1,5 @@
 Language=zh_CN
-ThemeFile=dracula
+ThemeFile=mintty
 Transparency=low
 Font=Cascadia Mono
 FontHeight=14
@@ -9,3 +9,5 @@ WindowShortcuts=no
 MiddleClickAction=void
 CopyTab=yes
 CopyAsRTF=no
+Columns=100
+Rows=30
