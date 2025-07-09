@@ -54,7 +54,9 @@
 > [高德](https://ditu.amap.com/)
 ## windows
 > [7z](https://www.7-zip.org/)
+> [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd)
 > [WinRAR](https://www.rarlab.com/)
+> [MSYS2](https://www.msys2.org/)
 > [git](https://git-scm.com/)
 > [Code](https://code.visualstudio.com/)
 > [Firefox](https://www.mozilla.org/)
