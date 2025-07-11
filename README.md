@@ -1,6 +1,8 @@
 # nothing
 ## fkgfw
 > [sing-box](https://github.com/SagerNet/sing-box)
+> [mihomo](https://github.com/MetaCubeX/mihomo)
+> [hysteria](https://github.com/apernet/hysteria)
 > [脚本](https://github.com/233boy/sing-box)
 > [路由](https://github.com/Loyalsoldier/v2ray-rules-dat)
 > [Bandwagon](https://bandwagonhost.com/)
