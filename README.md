@@ -12,6 +12,7 @@
 >
 > [Edge](https://www.microsoft.com/)
 > [Outlook](https://www.microsoft.com/)
+> [Proton](https://proton.me/mail)
 >
 > [Telegram](https://telegram.org/)
 > [X](https://x.com/)
@@ -41,6 +42,7 @@
 > [番茄](https://fanqienovel.com/)
 > [阅读](https://github.com/gedoor/legado)
 > [金山](https://www.kdocs.cn/)
+> [ima](https://ima.qq.com/)
 >
 > [豆包](https://www.doubao.com/chat/)
 > [DeepSeek](https://www.deepseek.com/)
@@ -48,6 +50,7 @@
 > [通义](https://tongyi.aliyun.com/)
 > [元宝](https://yuanbao.tencent.com/)
 > [ChatGPT](https://chatgpt.com/)
+> [即梦AI](https://jimeng.jianying.com/)
 >
 > [拼多多](https://www.pinduoduo.com/)
 > [淘宝](https://www.taobao.com/)
