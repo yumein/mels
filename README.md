@@ -6,7 +6,7 @@
 > [脚本](https://github.com/233boy/sing-box)
 > [路由](https://github.com/Loyalsoldier/v2ray-rules-dat)
 > [Bandwagon](https://bandwagonhost.com/)
-## android
+## phone
 > [Aegis](https://github.com/beemdevelopment/Aegis)
 > [Bitwarden](https://github.com/bitwarden/android)
 >
@@ -53,26 +53,20 @@
 > [淘宝](https://www.taobao.com/)
 > [美团](https://www.meituan.com/)
 > [高德](https://ditu.amap.com/)
-## windows
+## pc
 > [7z](https://www.7-zip.org/)
-> [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd)
 > [WinRAR](https://www.rarlab.com/)
-> [MSYS2](https://www.msys2.org/)
-> [git](https://git-scm.com/)
 > [Code](https://code.visualstudio.com/)
 > [Firefox](https://www.mozilla.org/)
 > [Edge](https://www.microsoft.com/)
 > [Chrome](https://www.google.com/intl/zh-CN/chrome/?standalone=1)
-> [terminal](https://github.com/microsoft/terminal)
 >
 > [JPEGView](https://github.com/sylikc/jpegview)
 > [IrfanView](https://www.irfanview.com/)
 > [MPC](https://github.com/clsid2/mpc-hc)
 > [FileZilla](https://filezilla-project.org/)
 > [qBittorrent](https://www.qbittorrent.org/)
-> [NDM](https://www.neatdownloadmanager.com/)
 > [aria2](https://github.com/aria2/aria2)
-> [ReNamer](https://www.den4b.com/products/renamer)
 > [waifu2x](https://github.com/nagadomi/nunif)
 > [Rufus](https://rufus.ie/zh/#)
 >
