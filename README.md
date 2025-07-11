@@ -61,9 +61,6 @@
 > [Edge](https://www.microsoft.com/)
 > [Chrome](https://www.google.com/intl/zh-CN/chrome/?standalone=1)
 >
-> [JPEGView](https://github.com/sylikc/jpegview)
-> [IrfanView](https://www.irfanview.com/)
-> [MPC](https://github.com/clsid2/mpc-hc)
 > [FileZilla](https://filezilla-project.org/)
 > [qBittorrent](https://www.qbittorrent.org/)
 > [aria2](https://github.com/aria2/aria2)
