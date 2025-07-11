@@ -28,6 +28,7 @@
 > [微信](https://weixin.qq.com/)
 > [TIM](https://tim.qq.com/)
 > [QQ Mail](https://mail.qq.com/)
+> 
 > [微博](https://weibo.com/)
 > [小红书](https://www.xiaohongshu.com/)
 > [B站](https://www.bilibili.com/)
@@ -54,6 +55,7 @@
 >
 > [拼多多](https://www.pinduoduo.com/)
 > [淘宝](https://www.taobao.com/)
+> [闲鱼](https://www.goofish.com/)
 > [美团](https://www.meituan.com/)
 > [高德](https://ditu.amap.com/)
 ## pc
