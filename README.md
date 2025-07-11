@@ -44,6 +44,7 @@
 > [阅读](https://github.com/gedoor/legado)
 > [金山](https://www.kdocs.cn/)
 > [ima](https://ima.qq.com/)
+> [语雀](https://www.yuque.com/)
 >
 > [豆包](https://www.doubao.com/chat/)
 > [DeepSeek](https://www.deepseek.com/)
