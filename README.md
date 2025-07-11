@@ -68,7 +68,6 @@
 > [qBittorrent](https://www.qbittorrent.org/)
 > [aria2](https://github.com/aria2/aria2)
 > [waifu2x](https://github.com/nagadomi/nunif)
-> [Rufus](https://rufus.ie/zh/#)
 >
 > [漫画织机](https://github.com/MapoMagpie/eh-view-enhance)
 > 
