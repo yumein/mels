@@ -1,6 +1,6 @@
 # nothing
 ## fkgfw
-> [sing-box](https://github.com/SagerNet/sing-box)
+> [xray](https://github.com/xtls/xray-core)
 > [mihomo](https://github.com/MetaCubeX/mihomo)
 > [hysteria](https://github.com/apernet/hysteria)
 > [脚本](https://github.com/233boy/Xray)
