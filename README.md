@@ -20,9 +20,7 @@
 > [PixEz](https://github.com/Notsfsssf/pixez-flutter)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
 >
-> [Termux](https://termux.dev/)
 > [ZArchiver](https://zdevs.ru/)
-> [Gboard](https://www.google.com/)
 >
 > [微信](https://weixin.qq.com/)
 > [TIM](https://tim.qq.com/)
@@ -31,11 +29,10 @@
 > [微博](https://weibo.com/)
 > [小红书](https://www.xiaohongshu.com/)
 > [B站](https://www.bilibili.com/)
-> [Acfun](https://www.acfun.cn/)
 > [抖音](https://www.douyin.com/)
-> [快手](https://kuaishou.cn/)
 > [音乐](https://y.qq.com/)
 > [音乐](https://music.163.com/)
+> [音乐](https://music.douyin.com/qishui)
 >
 > [微信读书](https://weread.qq.com/)
 > [起点](https://www.qidian.com/)
@@ -51,9 +48,13 @@
 > [通义](https://tongyi.aliyun.com/)
 > [元宝](https://yuanbao.tencent.com/)
 > [ChatGPT](https://chatgpt.com/)
+> [Copilot](https://copilot.microsoft.com/)
+> [Gemini](https://gemini.google.com/app)
+> [Grok](https://grok.com/)
 > [即梦AI](https://jimeng.jianying.com/)
 >
 > [拼多多](https://www.pinduoduo.com/)
+> [京东](https://www.jd.com/)
 > [淘宝](https://www.taobao.com/)
 > [闲鱼](https://www.goofish.com/)
 > [美团](https://www.meituan.com/)
