@@ -6,14 +6,6 @@
 > [E-Hentai](https://e-hentai.org/)
 > [ExHentai](https://exhentai.org/)
 > 
-> [Kemono](https://kemono.su/)
-> [Konachan](https://konachan.com/)
-> [yande](https://yande.re/)
-> [Danbooru](https://danbooru.donmai.us/)
-> [Gelbooru](https://gelbooru.com/)
-> [Hitomi](https://hitomi.la/)
-> [nyaa](https://nyaa.si/)
-> [Panda Backup](https://panda.chaika.moe/)
 > [動漫花園](https://share.dmhy.org/)
 > 
 > [ascii2d](https://ascii2d.net/)
