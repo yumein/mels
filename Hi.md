@@ -1,6 +1,4 @@
 ## hothing
-> [X](https://x.com/)
-> [Pixiv](https://www.pixiv.net/)
 > [Rule 34](https://rule34.xxx/)
 > [南+](https://www.south-plus.net/)
 > [E-Hentai](https://e-hentai.org/)
