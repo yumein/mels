@@ -8,7 +8,5 @@
 > 
 > [ascii2d](https://ascii2d.net/)
 > [SauceNAO](https://saucenao.com/)
-> [trace](https://trace.moe/)
-> [yandex](https://yandex.com/images/)
 > [Bigjpg](https://bigjpg.com/)
 > [waifu2x](https://www.waifu2x.net/)
