@@ -11,13 +11,11 @@
 >
 > [Edge](https://www.microsoft.com/)
 > [Outlook](https://www.microsoft.com/)
+> [Gmail](https://mail.google.com)
 > [Proton](https://proton.me/mail)
 >
-> [Telegram](https://telegram.org/)
 > [X](https://x.com/)
->
 > [Pixiv](https://www.pixiv.net/)
-> [PixEz](https://github.com/Notsfsssf/pixez-flutter)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
 >
 > [ZArchiver](https://zdevs.ru/)
@@ -61,16 +59,8 @@
 > [高德](https://ditu.amap.com/)
 ## pc
 > [7z](https://www.7-zip.org/)
-> [WinRAR](https://www.rarlab.com/)
 > [Code](https://code.visualstudio.com/)
 > [Firefox](https://www.mozilla.org/)
 > [Edge](https://www.microsoft.com/)
 > [Chrome](https://www.google.com/intl/zh-CN/chrome/?standalone=1)
->
-> [FileZilla](https://filezilla-project.org/)
-> [qBittorrent](https://www.qbittorrent.org/)
-> [aria2](https://github.com/aria2/aria2)
-> [waifu2x](https://github.com/nagadomi/nunif)
->
-> [漫画织机](https://github.com/MapoMagpie/eh-view-enhance)
 > 
