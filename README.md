@@ -17,7 +17,8 @@
 > [X](https://x.com/)
 > [Pixiv](https://www.pixiv.net/)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
->
+> 
+> [Termux](https://termux.dev/)
 > [ZArchiver](https://zdevs.ru/)
 >
 > [微信](https://weixin.qq.com/)
@@ -63,4 +64,5 @@
 > [Firefox](https://www.mozilla.org/)
 > [Edge](https://www.microsoft.com/)
 > [Chrome](https://www.google.com/intl/zh-CN/chrome/?standalone=1)
+> [FileZilla](https://filezilla-project.org/)
 > 
