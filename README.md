@@ -20,7 +20,6 @@
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
 > 
 > [Termux](https://termux.dev/)
-> [ZArchiver](https://zdevs.ru/)
 >
 > [微信](https://weixin.qq.com/)
 > [TIM](https://tim.qq.com/)
