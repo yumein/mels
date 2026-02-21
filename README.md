@@ -44,7 +44,7 @@
 > [豆包](https://www.doubao.com/chat/)
 > [DeepSeek](https://www.deepseek.com/)
 > [Kimi](https://kimi.moonshot.cn/)
-> [通义](https://tongyi.aliyun.com/)
+> [千问](https://www.qianwen.com/)
 > [元宝](https://yuanbao.tencent.com/)
 > [ChatGPT](https://chatgpt.com/)
 > [Copilot](https://copilot.microsoft.com/)
