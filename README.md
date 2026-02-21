@@ -15,6 +15,7 @@
 > [Proton](https://proton.me/mail)
 >
 > [X](https://x.com/)
+> [Telegram](https://telegram.org/)
 > [Pixiv](https://www.pixiv.net/)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
 > 
