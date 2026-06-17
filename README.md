@@ -53,6 +53,7 @@
 > [小云雀](https://xyq.jianying.com/)
 > [剪映](https://www.capcut.cn/)
 > [必剪](https://bcut.bilibili.cn/)
+> [灵光](https://www.lingguang.com)
 >
 > [拼多多](https://www.pinduoduo.com/)
 > [京东](https://www.jd.com/)
