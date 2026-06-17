@@ -28,6 +28,8 @@
 > [小红书](https://www.xiaohongshu.com/)
 > [B站](https://www.bilibili.com/)
 > [抖音](https://www.douyin.com/)
+> [贴吧](https://github.com/0ranko0P/TiebaLite)
+> [知乎](https://github.com/zly2006/zhihu-plus-plus)
 > [音乐](https://y.qq.com/)
 > [音乐](https://music.163.com/)
 > [音乐](https://music.douyin.com/qishui)
