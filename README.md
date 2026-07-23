@@ -50,12 +50,10 @@
 > [ChatGPT](https://chatgpt.com/)
 > [Copilot](https://copilot.microsoft.com/)
 > [Gemini](https://gemini.google.com/app)
-> [Grok](https://grok.com/)
 > [即梦AI](https://jimeng.jianying.com/)
 > [小云雀](https://xyq.jianying.com/)
 > [剪映](https://www.capcut.cn/)
 > [必剪](https://bcut.bilibili.cn/)
-> [灵光](https://www.lingguang.com)
 >
 > [拼多多](https://www.pinduoduo.com/)
 > [京东](https://www.jd.com/)
