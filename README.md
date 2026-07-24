@@ -37,7 +37,6 @@
 > [微信读书](https://weread.qq.com/)
 > [起点](https://www.qidian.com/)
 > [番茄](https://fanqienovel.com/)
-> [阅读](https://github.com/gedoor/legado)
 > [金山](https://www.kdocs.cn/)
 > [ima](https://ima.qq.com/)
 > [语雀](https://www.yuque.com/)
