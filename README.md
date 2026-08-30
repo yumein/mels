@@ -27,12 +27,13 @@
 > [小红书](https://www.xiaohongshu.com/)
 > [B站](https://www.bilibili.com/)
 > [抖音](https://www.douyin.com/)
-> [贴吧](https://github.com/0ranko0P/TiebaLite)
 > [知乎](https://github.com/zly2006/zhihu-plus-plus)
+> [红果](https://hongguoduanju.com/)
 > [音乐](https://y.qq.com/)
 > [音乐](https://music.163.com/)
 > [音乐](https://music.douyin.com/qishui)
->
+> 
+> [学习强国](https://www.xuexi.cn/)
 > [微信读书](https://weread.qq.com/)
 > [起点](https://www.qidian.com/)
 > [番茄](https://fanqienovel.com/)
