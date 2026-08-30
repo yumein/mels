@@ -10,6 +10,7 @@
 > [Bitwarden](https://github.com/bitwarden/android)
 >
 > [Brave](https://brave.com/)
+> [Firefox](https://www.firefox.com/)
 > [Outlook](https://www.microsoft.com/)
 > [Gmail](https://mail.google.com)
 > [Proton](https://proton.me/mail)
