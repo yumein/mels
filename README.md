@@ -62,6 +62,8 @@
 > [高德](https://ditu.amap.com/)
 ## pc
 > [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
+> [Firefox](https://www.firefox.com/)
+> [Brave](https://brave.com/)
 > [7z](https://www.7-zip.org/)
 > [FileZilla](https://filezilla-project.org/)
 > [IrfanView](https://www.irfanview.com/)
