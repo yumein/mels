@@ -31,7 +31,7 @@
 > [红果](https://hongguoduanju.com/)
 > [QQ音乐](https://y.qq.com/)
 > [网易云音乐](https://music.163.com/)
-> [汽水音乐](https://music.douyin.com/qishui)
+> [汽水音乐](https://music.douyin.com/)
 > 
 > [学习强国](https://www.xuexi.cn/)
 > [微信读书](https://weread.qq.com/)
