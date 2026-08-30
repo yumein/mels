@@ -63,9 +63,6 @@
 ## pc
 > [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
 > [7z](https://www.7-zip.org/)
-> [Code](https://code.visualstudio.com/)
-> [Edge](https://www.microsoft.com/)
-> [Chrome](https://www.google.com/intl/zh-CN/chrome/?standalone=1)
 > [FileZilla](https://filezilla-project.org/)
 > [IrfanView](https://www.irfanview.com/)
 > [MPV](https://github.com/mpv-player/mpv)
