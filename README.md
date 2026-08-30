@@ -14,8 +14,6 @@
 > [Gmail](https://mail.google.com)
 > [Proton](https://proton.me/mail)
 >
-> [X](https://x.com/)
-> [Pixiv](https://www.pixiv.net/)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
 > 
 > [Termux](https://termux.dev/)
