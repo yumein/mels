@@ -43,7 +43,7 @@
 >
 > [豆包](https://www.doubao.com/)
 > [DeepSeek](https://www.deepseek.com/)
-> [KIMI](https://kimi.moonshot.cn/)
+> [KIMI](https://www.kimi.com/)
 > [千问](https://www.qianwen.com/)
 > [元宝](https://yuanbao.tencent.com/)
 > [ChatGPT](https://chatgpt.com/)
