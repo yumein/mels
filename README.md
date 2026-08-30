@@ -41,7 +41,7 @@
 > [IMA](https://ima.qq.com/)
 > [语雀](https://www.yuque.com/)
 >
-> [豆包](https://www.doubao.com/chat/)
+> [豆包](https://www.doubao.com/)
 > [DeepSeek](https://www.deepseek.com/)
 > [KIMI](https://kimi.moonshot.cn/)
 > [千问](https://www.qianwen.com/)
