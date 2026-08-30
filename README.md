@@ -15,10 +15,10 @@
 > [Gmail](https://mail.google.com)
 > [Proton](https://proton.me/mail)
 >
+> [Gboard](https://www.google.com/)
+> [Termux](https://termux.dev/)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
 > 
-> [Termux](https://termux.dev/)
->
 > [微信](https://weixin.qq.com/)
 > [TIM](https://tim.qq.com/)
 > [QQ Mail](https://mail.qq.com/)
