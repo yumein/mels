@@ -13,7 +13,7 @@
 > [Firefox](https://www.firefox.com/)
 > [Outlook](https://www.microsoft.com/)
 > [Gmail](https://mail.google.com)
-> [Proton](https://proton.me/mail)
+> [Proton](https://proton.me/)
 >
 > [Gboard](https://www.google.com/)
 > [Termux](https://github.com/termux/termux-app)
