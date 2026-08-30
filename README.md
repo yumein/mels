@@ -9,7 +9,7 @@
 > [Aegis](https://github.com/beemdevelopment/Aegis)
 > [Bitwarden](https://github.com/bitwarden/android)
 >
-> [Edge](https://www.microsoft.com/)
+> [Brave](https://brave.com/)
 > [Outlook](https://www.microsoft.com/)
 > [Gmail](https://mail.google.com)
 > [Proton](https://proton.me/mail)
