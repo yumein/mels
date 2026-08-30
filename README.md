@@ -54,7 +54,7 @@
 > [剪映](https://www.capcut.cn/)
 > [必剪](https://bcut.bilibili.cn/)
 >
-> [拼多多](https://www.pinduoduo.com/)
+> [拼多多](https://pinduoduo.com/)
 > [京东](https://www.jd.com/)
 > [淘宝](https://www.taobao.com/)
 > [闲鱼](https://www.goofish.com/)
