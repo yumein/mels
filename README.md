@@ -48,7 +48,7 @@
 > [元宝](https://yuanbao.tencent.com/)
 > [ChatGPT](https://chatgpt.com/)
 > [Copilot](https://copilot.microsoft.com/)
-> [Gemini](https://gemini.google.com/app)
+> [Gemini](https://gemini.google.com/)
 > [即梦AI](https://jimeng.jianying.com/)
 > [小云雀](https://xyq.jianying.com/)
 > [剪映](https://www.capcut.cn/)
