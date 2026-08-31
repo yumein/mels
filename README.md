@@ -66,6 +66,7 @@
 > [Brave](https://brave.com/)
 > [Git](https://git-scm.com/)
 > [7z](https://www.7-zip.org/)
+> [WinRAR](https://www.rarlab.com/)
 > [FileZilla](https://filezilla-project.org/)
 > [IrfanView](https://www.irfanview.com/)
 > [MPV](https://github.com/mpv-player/mpv)
