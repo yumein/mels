@@ -10,3 +10,6 @@ EOF
 
 chmod +x ~/bin/termux-file-editor
  ```
+ ```
+
+ ```
