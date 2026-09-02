@@ -8,22 +8,23 @@
 ## phone
 > [Aegis](https://github.com/beemdevelopment/Aegis)
 > [Bitwarden](https://github.com/bitwarden/android)
->
+
 > [Brave](https://brave.com/)
 > [Firefox](https://www.firefox.com/)
 > [Outlook](https://www.microsoft.com/)
 > [Gmail](https://mail.google.com)
 > [Proton](https://proton.me/)
->
+
 > [Gboard](https://www.google.com/)
 > [Termux](https://github.com/termux/termux-app)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
-> 
+ 
 > [微信](https://weixin.qq.com/)
 > [TIM](https://tim.qq.com/)
 > [QQ邮箱](https://mail.qq.com/)
 > [坚果云](https://www.jianguoyun.com/)
-> 
+> [Dropbox](https://www.dropbox.com/)
+ 
 > [微博](https://weibo.com/)
 > [小红书](https://www.xiaohongshu.com/)
 > [B站](https://www.bilibili.com/)
@@ -33,7 +34,7 @@
 > [QQ音乐](https://y.qq.com/)
 > [网易云音乐](https://music.163.com/)
 > [汽水音乐](https://music.douyin.com/)
-> 
+ 
 > [学习强国](https://www.xuexi.cn/)
 > [微信读书](https://weread.qq.com/)
 > [起点](https://www.qidian.com/)
@@ -41,7 +42,7 @@
 > [金山](https://www.kdocs.cn/)
 > [IMA](https://ima.qq.com/)
 > [语雀](https://www.yuque.com/)
->
+
 > [豆包](https://www.doubao.com/)
 > [DeepSeek](https://www.deepseek.com/)
 > [KIMI](https://www.kimi.com/)
@@ -54,7 +55,7 @@
 > [小云雀](https://xyq.jianying.com/)
 > [剪映](https://www.capcut.cn/)
 > [必剪](https://bcut.bilibili.cn/)
->
+
 > [拼多多](https://pinduoduo.com/)
 > [京东](https://www.jd.com/)
 > [淘宝](https://www.taobao.com/)
@@ -72,4 +73,3 @@
 > [IrfanView](https://www.irfanview.com/)
 > [MPV](https://github.com/mpv-player/mpv)
 > [MPC](https://github.com/clsid2/mpc-hc)
-> 
