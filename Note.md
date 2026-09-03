@@ -12,6 +12,7 @@ chmod +x ~/bin/termux-file-editor
  ```
  ```
 set background=dark
+colorscheme sorbet
 
 set fileformat=unix
 set fileformats=unix,dos
