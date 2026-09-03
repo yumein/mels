@@ -115,4 +115,5 @@ opt.backup = false
 opt.swapfile = false
 
 vim.cmd("filetype plugin indent on")
+
  ```
