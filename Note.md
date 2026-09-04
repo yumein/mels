@@ -2,6 +2,14 @@
 --proxy-server="socks5://127.0.0.1:6767"
  ```
  ```
+adduser sh
+usermod -aG sudo sh
+passwd sh
+ssh-keygen
+ssh-copy-id -p 22 sh@0.0.0.0
+
+ ```
+ ```
 mkdir -p ~/bin
 
 cat > ~/bin/termux-file-editor << 'EOF'
