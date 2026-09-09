@@ -85,6 +85,9 @@ vim.cmd('colorscheme sorbet')
 opt.termguicolors = true
 vim.cmd("syntax enable")
 
+opt.number = true
+opt.wrap = true
+
 opt.fileformat = "unix"
 opt.fileformats = "unix,dos"
 opt.encoding = "utf-8"
