@@ -23,7 +23,6 @@ set background=dark
 colorscheme sorbet
 
 set number
-set wrap
 
 set fileformat=unix
 set fileformats=unix,dos
@@ -52,7 +51,7 @@ set showcmd
 set ruler
 
 set textwidth=0
-set nowrap
+set wrap
 set sidescroll=1
 set sidescrolloff=4
 
@@ -86,7 +85,6 @@ opt.termguicolors = true
 vim.cmd("syntax enable")
 
 opt.number = true
-opt.wrap = true
 
 opt.fileformat = "unix"
 opt.fileformats = "unix,dos"
@@ -116,7 +114,7 @@ opt.showmode = false
 opt.showcmd = true
 opt.ruler = true
 opt.textwidth = 0
-opt.wrap = false
+opt.wrap = true
 opt.sidescroll = 1
 opt.sidescrolloff = 4
 opt.foldenable = false
