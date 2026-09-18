@@ -5,9 +5,10 @@
 adduser sh
 usermod -aG sudo sh
 passwd sh
-/etc/ssh/sshd_config
 ssh-keygen
 ssh-copy-id -p 22 sh@0.0.0.0
+scp -P 22 file sh@0.0.0.0:~
+/etc/ssh/sshd_config
 
  ```
  ```
