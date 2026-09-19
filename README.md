@@ -1,7 +1,7 @@
 # nothing
 ## fkgfw
 > [xray](https://github.com/xtls/xray-core)
-> [XrayG](https://github.com/SaeedDev94/Xray)
+> [Termux](https://github.com/termux/termux-app)
 > [脚本](https://github.com/233boy/Xray)
 > [路由](https://github.com/Loyalsoldier/v2ray-rules-dat)
 > [Bandwagon](https://bandwagonhost.com/)
@@ -11,17 +11,13 @@
 
 > [Brave](https://brave.com/)
 > [Firefox](https://www.firefox.com/)
-> [Outlook](https://www.microsoft.com/)
-> [Gmail](https://mail.google.com)
-> [Proton](https://proton.me/)
 
 > [Gboard](https://www.google.com/)
-> [Termux](https://github.com/termux/termux-app)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
  
 > [微信](https://weixin.qq.com/)
 > [TIM](https://tim.qq.com/)
-> [QQ邮箱](https://mail.qq.com/)
+
 > [坚果云](https://www.jianguoyun.com/)
 > [Dropbox](https://www.dropbox.com/)
  
@@ -29,13 +25,11 @@
 > [小红书](https://www.xiaohongshu.com/)
 > [B站](https://www.bilibili.com/)
 > [抖音](https://www.douyin.com/)
-> [知乎](https://github.com/zly2006/zhihu-plus-plus)
 > [红果](https://hongguoduanju.com/)
 > [QQ音乐](https://y.qq.com/)
 > [网易云音乐](https://music.163.com/)
 > [汽水音乐](https://music.douyin.com/)
- 
-> [学习强国](https://www.xuexi.cn/)
+
 > [微信读书](https://weread.qq.com/)
 > [起点](https://www.qidian.com/)
 > [番茄](https://fanqienovel.com/)
