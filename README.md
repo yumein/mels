@@ -8,16 +8,15 @@
 ## phone
 > [Aegis](https://github.com/beemdevelopment/Aegis)
 > [Bitwarden](https://github.com/bitwarden/android)
+> [Thunderbird](https://www.thunderbird.net/)
 
 > [Brave](https://brave.com/)
 > [Firefox](https://www.firefox.com/)
-
 > [Gboard](https://www.google.com/)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
  
 > [微信](https://weixin.qq.com/)
 > [TIM](https://tim.qq.com/)
-
 > [坚果云](https://www.jianguoyun.com/)
 > [Dropbox](https://www.dropbox.com/)
  
