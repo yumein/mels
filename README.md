@@ -8,7 +8,7 @@
 ## phone
 > [Aegis](https://github.com/beemdevelopment/Aegis)
 > [Bitwarden](https://github.com/bitwarden/android)
-> [Thunderbird](https://www.thunderbird.net/)
+> [Termux](https://github.com/termux/termux-app)
 
 > [Brave](https://brave.com/)
 > [Firefox](https://www.firefox.com/)
