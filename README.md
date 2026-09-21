@@ -57,7 +57,7 @@
 ## pc
 > [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
 > [Firefox](https://www.firefox.com/)
-> [Brave](https://brave.com/)
+> [Edge](https://explore.microsoft.com/)
 > [Git](https://git-scm.com/)
 > [7z](https://www.7-zip.org/)
 > [WinRAR](https://www.rarlab.com/)
