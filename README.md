@@ -1,7 +1,7 @@
 # nothing
 ## fkgfw
 > [xray](https://github.com/xtls/xray-core)
-> [Termux](https://github.com/termux/termux-app)
+> [Xray GUI](https://github.com/SaeedDev94/Xray)
 > [脚本](https://github.com/233boy/Xray)
 > [路由](https://github.com/Loyalsoldier/v2ray-rules-dat)
 > [Bandwagon](https://bandwagonhost.com/)
