@@ -10,8 +10,7 @@
 > [Bitwarden](https://github.com/bitwarden/android)
 > [Termux](https://github.com/termux/termux-app)
 
-> [Brave](https://brave.com/)
-> [Firefox](https://www.firefox.com/)
+> [Edge](https://explore.microsoft.com/)
 > [Gboard](https://www.google.com/)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
  
