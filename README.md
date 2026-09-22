@@ -58,6 +58,7 @@
 > [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
 > [Firefox](https://www.firefox.com/)
 > [Edge](https://explore.microsoft.com/)
+> [Chrome](https://www.google.com/chrome/)
 > [Git](https://git-scm.com/)
 > [7z](https://www.7-zip.org/)
 > [WinRAR](https://www.rarlab.com/)
