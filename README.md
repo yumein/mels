@@ -11,7 +11,7 @@
 > [Termux](https://github.com/termux/termux-app)
 
 > [Edge](https://explore.microsoft.com)
-> [Firefox](https://ftp.mozilla.org/pub/fenix/releases)
+> [Firefox](https://ftp.mozilla.org/pub/fenix/releases/)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
  
 > [微信](https://weixin.qq.com/)
