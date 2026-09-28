@@ -12,6 +12,7 @@
 > [Fcitx5](https://github.com/fcitx5-android/fcitx5-android)
 > [Edge](https://explore.microsoft.com)
 > [Firefox](https://ftp.mozilla.org/pub/fenix/releases/)
+> [闪念笔记](https://github.com/ldlywt/IdeaMemo)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
  
 > [微信](https://weixin.qq.com/)
