@@ -56,7 +56,7 @@
 > ~~[闲鱼](https://www.goofish.com/)~~
 > ~~[美团](https://www.meituan.com/)~~
 > [高德](https://amap.com/)
-## Windows 11
+## Windows 11 LTSC
 > [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
 > [Edge](https://explore.microsoft.com/)
 > [Chrome](https://www.google.com/chrome/)
