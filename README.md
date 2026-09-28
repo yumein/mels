@@ -9,7 +9,7 @@
 > [Aegis](https://github.com/beemdevelopment/Aegis)
 > [Bitwarden](https://github.com/bitwarden/android)
 > [Termux](https://github.com/termux/termux-app)
-> [Fcitx5]{https://github.com/fcitx5-android/fcitx5-android}
+> [Fcitx5](https://github.com/fcitx5-android/fcitx5-android)
 > [Edge](https://explore.microsoft.com)
 > [Firefox](https://ftp.mozilla.org/pub/fenix/releases/)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
