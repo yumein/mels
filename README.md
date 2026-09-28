@@ -1,7 +1,7 @@
 # NOTHING
 ## GFW
 > [xray](https://github.com/xtls/xray-core)
-> [Xray GUI](https://github.com/SaeedDev94/Xray)
+> [XrayGUI](https://github.com/SaeedDev94/Xray)
 > [脚本](https://github.com/233boy/Xray)
 > [路由](https://github.com/Loyalsoldier/v2ray-rules-dat)
 > [Bandwagon](https://bandwagonhost.com/)
@@ -9,7 +9,7 @@
 > [Aegis](https://github.com/beemdevelopment/Aegis)
 > [Bitwarden](https://github.com/bitwarden/android)
 > [Termux](https://github.com/termux/termux-app)
-
+> [Fcitx5]{https://github.com/fcitx5-android/fcitx5-android}
 > [Edge](https://explore.microsoft.com)
 > [Firefox](https://ftp.mozilla.org/pub/fenix/releases/)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
