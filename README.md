@@ -20,7 +20,7 @@
 > ~~[坚果云](https://www.jianguoyun.com/)~~
 > ~~[Dropbox](https://www.dropbox.com/)~~
  
-> [微博](https://weibo.com/)
+> ~~[微博](https://weibo.com/)~~
 > [小红书](https://www.xiaohongshu.com/)
 > [B站](https://www.bilibili.com/)
 > [抖音](https://www.douyin.com/)
