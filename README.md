@@ -16,51 +16,51 @@
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
  
 > [微信](https://weixin.qq.com/)
-> [TIM](https://tim.qq.com/)
-> [坚果云](https://www.jianguoyun.com/)
-> [Dropbox](https://www.dropbox.com/)
+> ~~[TIM](https://tim.qq.com/)~~
+> ~~[坚果云](https://www.jianguoyun.com/)~~
+> ~~[Dropbox](https://www.dropbox.com/)~~
  
 > [微博](https://weibo.com/)
 > [小红书](https://www.xiaohongshu.com/)
 > [B站](https://www.bilibili.com/)
 > [抖音](https://www.douyin.com/)
 > [红果](https://hongguoduanju.com/)
-> [QQ音乐](https://y.qq.com/)
-> [网易云音乐](https://music.163.com/)
+> ~~[QQ音乐](https://y.qq.com/)~~
+> ~~[网易云音乐](https://music.163.com/)~~
 > [汽水音乐](https://music.douyin.com/)
 
 > [微信读书](https://weread.qq.com/)
-> [起点](https://www.qidian.com/)
+> ~~[起点](https://www.qidian.com/)~~
 > [番茄](https://fanqienovel.com/)
-> [金山](https://www.kdocs.cn/)
-> [IMA](https://ima.qq.com/)
-> [语雀](https://www.yuque.com/)
+> ~~[金山](https://www.kdocs.cn/)~~
+> ~~[IMA](https://ima.qq.com/)~~
+> ~~[语雀](https://www.yuque.com/)~~
 
 > [豆包](https://www.doubao.com/)
 > [DeepSeek](https://www.deepseek.com/)
-> [KIMI](https://www.kimi.com/)
-> [千问](https://www.qianwen.com/)
-> [元宝](https://yuanbao.tencent.com/)
-> [即梦AI](https://jimeng.jianying.com/)
-> [小云雀](https://xyq.jianying.com/)
-> [剪映](https://www.capcut.cn/)
-> [必剪](https://bcut.bilibili.cn/)
+> ~~[KIMI](https://www.kimi.com/)~~
+> ~~[千问](https://www.qianwen.com/)~~
+> ~~[元宝](https://yuanbao.tencent.com/)~~
+> ~~[即梦AI](https://jimeng.jianying.com/)~~
+> ~~[小云雀](https://xyq.jianying.com/)~~
+> ~~[剪映](https://www.capcut.cn/)~~
+> ~~[必剪](https://bcut.bilibili.cn/)~~
 
-> [ChatGPT](https://chatgpt.com/)
-> [Copilot](https://copilot.microsoft.com/)
-> [Gemini](https://gemini.google.com/)
+> ~~[ChatGPT](https://chatgpt.com/)~~
+> ~~[Copilot](https://copilot.microsoft.com/)~~
+> ~~[Gemini](https://gemini.google.com/)~~
 
 > [拼多多](https://pinduoduo.com/)
-> [京东](https://www.jd.com/)
-> [淘宝](https://www.taobao.com/)
-> [闲鱼](https://www.goofish.com/)
-> [美团](https://www.meituan.com/)
+> ~~[京东](https://www.jd.com/)~~
+> ~~[淘宝](https://www.taobao.com/)~~
+> ~~[闲鱼](https://www.goofish.com/)~~
+> ~~[美团](https://www.meituan.com/)~~
 > [高德](https://amap.com/)
-## pc
+## Windows 11
 > [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
-> [Firefox](https://www.firefox.com/)
 > [Edge](https://explore.microsoft.com/)
 > [Chrome](https://www.google.com/chrome/)
+> [Firefox](https://www.firefox.com/)
 > [Git](https://git-scm.com/)
 > [7z](https://www.7-zip.org/)
 > [WinRAR](https://www.rarlab.com/)
