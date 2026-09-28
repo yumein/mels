@@ -10,8 +10,8 @@
 > [Bitwarden](https://github.com/bitwarden/android)
 > [Termux](https://github.com/termux/termux-app)
 
-> [Edge](https://explore.microsoft.com/)
-> [Gboard](https://www.google.com/)
+> [Edge](https://explore.microsoft.com)
+> [Firefox](https://ftp.mozilla.org/pub/fenix/releases)
 > [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
  
 > [微信](https://weixin.qq.com/)
