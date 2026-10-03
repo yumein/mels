@@ -7,13 +7,15 @@
 > [Bandwagon](https://bandwagonhost.com/)
 ## Android
 > [Aegis](https://github.com/beemdevelopment/Aegis)
+> [KeePassDX](https://github.com/kunzisoft/keepassdx)
 > [Bitwarden](https://github.com/bitwarden/android)
 > [Termux](https://github.com/termux/termux-app)
 > [Fcitx5](https://github.com/fcitx5-android/fcitx5-android)
 > [Edge](https://explore.microsoft.com)
 > [Firefox](https://ftp.mozilla.org/pub/fenix/releases/)
+> [Brave](https://github.com/brave/brave-browser)
 > [闪念笔记](https://github.com/ldlywt/IdeaMemo)
-> [EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)
+> ~~[EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)~~
  
 > [微信](https://weixin.qq.com/)
 > ~~[TIM](https://tim.qq.com/)~~
