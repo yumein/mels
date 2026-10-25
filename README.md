@@ -8,7 +8,7 @@
 ## Android
 > [Aegis](https://github.com/beemdevelopment/Aegis)
 > [KeePassDX](https://github.com/kunzisoft/keepassdx)
-> [Bitwarden](https://github.com/bitwarden/android)
+> ~~[Bitwarden](https://github.com/bitwarden/android)~~
 > [Termux](https://github.com/termux/termux-app)
 > [Fcitx5](https://github.com/fcitx5-android/fcitx5-android)
 > [Edge](https://explore.microsoft.com)
@@ -63,6 +63,7 @@
 > [Edge](https://explore.microsoft.com/)
 > [Chrome](https://www.google.com/chrome/)
 > [Firefox](https://www.firefox.com/)
+> [Brave](https://github.com/brave/brave-browser)
 > [Git](https://git-scm.com/)
 > [7z](https://www.7-zip.org/)
 > [WinRAR](https://www.rarlab.com/)
